@@ -1,0 +1,6 @@
+{
+  "name": "TYPE-69",
+  "description": "Premium futuristic dark offline music player with simulated device scanner, Web Audio procedural synth, full EQ, crossfade, and premium Material You UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
